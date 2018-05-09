@@ -1,0 +1,8 @@
+name: "academic_website"
+author: "Koji Takahashi"
+output_dir: "docs"
+output:
+  self_contained: no
+  theme: flatly
+navbar:
+  title: "Koji J. Takahashi Webpage"

@@ -3,6 +3,6 @@ author: "Koji Takahashi"
 output_dir: "docs"
 output:
   self_contained: no
-  theme: flatly
+  theme: cerulean
 navbar:
   title: "Koji J. Takahashi Webpage"

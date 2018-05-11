@@ -2,7 +2,7 @@
 title: "People"
 ---
 
-##PI
+#PI
 ###Koji Takahashi
 Doctoral Candidate in Psychology
 NSF Graduate Research Fellow

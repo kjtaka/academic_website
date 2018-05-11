@@ -1,6 +1,33 @@
 html {
-font-size: 2em; 
-font-family: "Baskerville";
-color: white;
-background-color: hsl(360, 100%, 20%)
+  font-size: 2em; 
+  font-family: "Baskerville";
+  background-color: white;
+  background-color: hsl(0, 0%, 16%);
+}
+
+h1 {
+  border: 1px #1d136a;
+  background-color: #1d136a;
+  font-size: 24px;
+  text-align: center;
+  color: #F8F8F8;
+} 
+
+h2 {
+  font-size: 24px;
+  text-align: center;
+  color: #282828;
+  color: hsl(0, 0%, 16%);
+}
+
+h3 {
+  font-size: 20px;
+  color: #282828;
+  color: hsl(0, 0%, 16%);
+  line-height: 22px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 17.6px;
 }

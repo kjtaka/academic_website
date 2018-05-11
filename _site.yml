@@ -4,5 +4,6 @@ output_dir: "docs"
 output:
   self_contained: no
   theme: cerulean
+  css: style.css
 navbar:
   title: "Koji J. Takahashi"

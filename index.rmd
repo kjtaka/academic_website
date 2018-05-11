@@ -1,6 +1,6 @@
 ---
 title: "Koji J. Takahashi"
 ---
-[Research](research.html)    [Prejudice and Persuasion Processes Lab](ppplab.html)
+[Research](research.html)    *    [Prejudice and Persuasion Processes Lab](ppplab.html)     
 
-I am a doctoral candidate in psychology at the University of Michigan. My [research] (research.html) examines (a) the cues people use to gauge what others think about stigmatized groups and (b) the impact this has on how they attend to and process stigma-relevant persuasive messages (e.g. messages about information about discrimination, inequality, and diversity). 
+I am a doctoral candidate in psychology at the University of Michigan. My [research](research.html) examines (a) the cues people use to gauge what others think about stigmatized groups and (b) the impact this has on how they attend to and process stigma-relevant persuasive messages (e.g. messages about information about discrimination, inequality, and diversity). 

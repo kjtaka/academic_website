@@ -1,6 +1,7 @@
 ---
 title: "Prejudice and Persuasion Processes (PPP) Lab"
 ---
+# [Home](index.html) &emsp; [Research](research.html) &emsp; [Prejudice and Persuasion Processes Lab](ppplab.html) &emsp; [People](people.html) 
 
 ##Lab Overview
 The Prejudice and Persuasion Processes (PPP) Lab studies the role of stigma and prejudice in processes of attitude formation, expression, and change. The lab uses a variety of research methods to study these processes in the domains of health, education, and politics. This work is done in conjunction with the [Stereotyping and Prejudice Research Interest Group (SPRIG)](https://sites.google.com/a/umich.edu/denise-sekaquaptewa/home) run by Dr. Denise Sekaquaptewa and the [Health, Attitudes, and Influence Lab (HAILab)](http://hailab.psych.lsa.umich.edu/) run by Dr. Allison Earl. 

@@ -2,8 +2,9 @@ name: "academic_website"
 author: "Koji Takahashi"
 output_dir: "docs"
 output:
-  self_contained: no
-  theme: cerulean
-  css: style.css
+  html_document:
+    self_contained: no
+    theme: flatly
+    css: style.css
 navbar:
   title: "Koji J. Takahashi"

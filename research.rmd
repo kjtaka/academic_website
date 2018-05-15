@@ -1,6 +1,7 @@
 ---
 title: "Research"
 ---
+# [Home](index.html) &emsp; [Research](research.html) &emsp; [Prejudice and Persuasion Processes Lab](ppplab.html) &emsp; [People](people.html) 
 
 ##Research Statement 
 
